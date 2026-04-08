@@ -1,0 +1,3 @@
+transition:
+  animation:
+    style: fade
