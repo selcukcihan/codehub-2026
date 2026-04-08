@@ -1,16 +1,16 @@
-https://zesty.co/blog/balance-performance-and-costs-in-the-cloud/
-https://unsplash.com/photos/diagram-Am6pBe2FpJw
-https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/?srsltid=AfmBOop-q_d54WbqK5GSxCl4ITy5yOLbQ97I2-TA8w3UD7fBwC5FAc8_
-https://unsplash.com/photos/circuit-board-technology-background-central-computer-processors-cpu-concept-motherboard-digital-chip-tech-science-background-integrated-communication-processor-3d-illustration-kdsISo8KeBk
-https://unsplash.com/photos/black-and-silver-turntable-on-brown-wooden-table-GNyjCePVRs8
-https://unsplash.com/photos/blue-utp-cord-40XgDxBfYXM
-https://www.sqlshack.com/an-overview-of-aws-well-architected-principles/
-https://arstechnica.com/ai/2026/02/an-ai-coding-bot-took-down-amazon-web-services/
-https://alexeyondata.substack.com/p/how-i-dropped-our-production-database
-https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-coding-platform-goes-rogue-during-code-freeze-and-deletes-entire-company-database-replit-ceo-apologizes-after-ai-engine-says-it-made-a-catastrophic-error-in-judgment-and-destroyed-all-production-data
-https://x.com/jasonlk/status/1946069562723897802?s=20
-https://x.com/dhh/status/1846989057030869479
-https://newsletter.pragmaticengineer.com/p/are-ai-agents-actually-slowing-us
-https://www.reddit.com/r/ProgrammerHumor/comments/1e5q2id/ihaveseenbaderrormanagementbutthisbeatseverything/
-https://nolongerset.com/signal-vs-noise/
-https://jakobnielsenphd.substack.com/p/ai-agents
+* https://zesty.co/blog/balance-performance-and-costs-in-the-cloud/
+* https://unsplash.com/photos/diagram-Am6pBe2FpJw
+* https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/?srsltid=AfmBOop-q_d54WbqK5GSxCl4ITy5yOLbQ97I2-TA8w3UD7fBwC5FAc8_
+* https://unsplash.com/photos/circuit-board-technology-background-central-computer-processors-cpu-concept-motherboard-digital-chip-tech-science-background-integrated-communication-processor-3d-illustration-kdsISo8KeBk
+* https://unsplash.com/photos/black-and-silver-turntable-on-brown-wooden-table-GNyjCePVRs8
+* https://unsplash.com/photos/blue-utp-cord-40XgDxBfYXM
+* https://www.sqlshack.com/an-overview-of-aws-well-architected-principles/
+* https://arstechnica.com/ai/2026/02/an-ai-coding-bot-took-down-amazon-web-services/
+* https://alexeyondata.substack.com/p/how-i-dropped-our-production-database
+* https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-coding-platform-goes-rogue-during-code-freeze-and-deletes-entire-company-database-replit-ceo-apologizes-after-ai-engine-says-it-made-a-catastrophic-error-in-judgment-and-destroyed-all-production-data
+* https://x.com/jasonlk/status/1946069562723897802?s=20
+* https://x.com/dhh/status/1846989057030869479
+* https://newsletter.pragmaticengineer.com/p/are-ai-agents-actually-slowing-us
+* https://www.reddit.com/r/ProgrammerHumor/comments/1e5q2id/ihaveseenbaderrormanagementbutthisbeatseverything/
+* https://nolongerset.com/signal-vs-noise/
+* https://jakobnielsenphd.substack.com/p/ai-agents
