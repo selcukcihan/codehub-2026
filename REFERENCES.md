@@ -14,3 +14,7 @@
 * https://www.reddit.com/r/ProgrammerHumor/comments/1e5q2id/ihaveseenbaderrormanagementbutthisbeatseverything/
 * https://nolongerset.com/signal-vs-noise/
 * https://jakobnielsenphd.substack.com/p/ai-agents
+* https://www.dolthub.com/blog/2025-07-15-best-coding-agent/
+* https://quotefancy.com/quote/1349893/Tim-O-Reilly-Whoever-has-the-data-has-the-power
+* https://awslabs.github.io/mcp/
+* https://github.com/cloudflare/skills?tab=readme-ov-file
